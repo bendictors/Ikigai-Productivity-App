@@ -3,8 +3,11 @@
 
 A mobile-first, purpose-driven app that helps individuals align their daily actions with long-term goals through journaling, planning, reflection, community, and guided challenges.
 
-## How Did We Come up with This Idea?
+## 🖼 Prototype  
+Explore the full interactive design of the Ikigai Purpose-Driven App: 
+[Prototype](https://www.figma.com/proto/EuTIr7lXngLJRq63EMDqt6/Projects?node-id=346-9452&t=eNv63MHOKSp0PW4M-1)
 
+## How Did We Come up with This Idea?
 This idea emerged from the growing need for purpose-driven tools that help people, especially young creatives, students, and entrepreneurs, align their daily actions with long-term goals. Inspired by the principles of Ikigai (a Japanese concept meaning "reason for being"), we noticed a gap in how people manage their time, self-growth, and collaborations in a digital world saturated with task managers and productivity apps that lack emotional and purposeful depth. Our goal was to build something holistic and human, especially during the summer—a season that often inspires rest, exploration, and reinvention. With that in mind, we created a purpose-first mobile app that supports users through journaling, planning, reflection, community, and guided challenges.
 
 ## What Is the Problem?
