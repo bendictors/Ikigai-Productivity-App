@@ -1,5 +1,5 @@
 # Ikigai-Productivity-App
-# Ikigai Purpose-Driven App
+<img width="1920" height="1082" alt="Ikigai" src="https://github.com/user-attachments/assets/bdd9aa15-ad91-41fb-807d-05f5e2877bde" />
 
 A mobile-first, purpose-driven app that helps individuals align their daily actions with long-term goals through journaling, planning, reflection, community, and guided challenges.
 
